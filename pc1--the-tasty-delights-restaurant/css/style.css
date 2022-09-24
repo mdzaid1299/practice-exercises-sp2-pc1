@@ -1,1 +1,25 @@
-/* Write CSS code here */
+.images{
+    margin-left: 300px;
+    margin-top: 20px;
+
+}
+img{
+    width: 250px;
+    padding: 10px;
+    
+}
+
+h1{
+    color: rgb(237, 243, 241);
+    text-align: center;
+}
+body {
+background-color: rgb(8, 5, 5);}
+
+.white {
+    color: white;
+}
+.green{
+    color: green;
+
+}
