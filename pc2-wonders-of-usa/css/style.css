@@ -1,1 +1,22 @@
-/* Write CSS code here */
+header{
+    background-color: darkblue;
+    text-decoration-color: white;
+}
+header a{
+    color: white;
+    margin-left: 15px;
+}
+footer p{
+    text-align: center;
+}
+
+.photo{
+    margin-left: 50px;
+}
+#img1{
+    margin-left: 30px;
+}
+
+#img2{
+    margin-left: 30px;
+}
